@@ -1,0 +1,6 @@
+framework module Pods_warikanApp {
+  umbrella header "Pods-warikanApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

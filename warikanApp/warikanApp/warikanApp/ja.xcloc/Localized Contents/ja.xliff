@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="warikanApp/Base.lproj/Main.storyboard" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+    </header>
+    <body>
+      <trans-unit id="0EE-vE-GRU.text" xml:space="preserve">
+        <source>2020/12/31</source>
+        <target>2020/12/31</target>
+        <note>Class = "UILabel"; text = "2020/12/31"; ObjectID = "0EE-vE-GRU";</note>
+      </trans-unit>
+      <trans-unit id="5EX-Zz-8On.title" xml:space="preserve">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "5EX-Zz-8On";</note>
+      </trans-unit>
+      <trans-unit id="7dg-YP-aP9.text" xml:space="preserve">
+        <source>太郎へ</source>
+        <target>太郎へ</target>
+        <note>Class = "UILabel"; text = "太郎へ"; ObjectID = "7dg-YP-aP9";</note>
+      </trans-unit>
+      <trans-unit id="9h6-z2-Bmr.title" xml:space="preserve">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "9h6-z2-Bmr";</note>
+      </trans-unit>
+      <trans-unit id="589-qc-xCQ.normalTitle" xml:space="preserve">
+        <source>share</source>
+        <target>share</target>
+        <note>Class = "UIButton"; normalTitle = "share"; ObjectID = "589-qc-xCQ";</note>
+      </trans-unit>
+      <trans-unit id="AlT-uG-x7Z.title" xml:space="preserve">
+        <source>イベント編集</source>
+        <target>イベント編集</target>
+        <note>Class = "UINavigationItem"; title = "イベント編集"; ObjectID = "AlT-uG-x7Z";</note>
+      </trans-unit>
+      <trans-unit id="CDk-xS-Nuv.title" xml:space="preserve">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "CDk-xS-Nuv";</note>
+      </trans-unit>
+      <trans-unit id="Ej8-0u-PjZ.text" xml:space="preserve">
+        <source>1人平均 2,400円</source>
+        <target>1人平均 2,400円</target>
+        <note>Class = "UILabel"; text = "1人平均 2,400円"; ObjectID = "Ej8-0u-PjZ";</note>
+      </trans-unit>
+      <trans-unit id="HtL-tT-cMe.title" xml:space="preserve">
+        <source>清算結果</source>
+        <target>清算結果</target>
+        <note>Class = "UINavigationItem"; title = "清算結果"; ObjectID = "HtL-tT-cMe";</note>
+      </trans-unit>
+      <trans-unit id="IQO-iV-KEe.title" xml:space="preserve">
+        <source>支払い作成</source>
+        <target>支払い作成</target>
+        <note>Class = "UINavigationItem"; title = "支払い作成"; ObjectID = "IQO-iV-KEe";</note>
+      </trans-unit>
+      <trans-unit id="Ig7-Mg-TTA.text" xml:space="preserve">
+        <source>伊豆大島旅行</source>
+        <target>伊豆大島旅行</target>
+        <note>Class = "UILabel"; text = "伊豆大島旅行"; ObjectID = "Ig7-Mg-TTA";</note>
+      </trans-unit>
+      <trans-unit id="LXr-zL-XFy.title" xml:space="preserve">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "LXr-zL-XFy";</note>
+      </trans-unit>
+      <trans-unit id="OFw-dU-dsr.title" xml:space="preserve">
+        <source>削除</source>
+        <target>削除</target>
+        <note>Class = "UIBarButtonItem"; title = "削除"; ObjectID = "OFw-dU-dsr";</note>
+      </trans-unit>
+      <trans-unit id="Q8Q-VM-oPY.title" xml:space="preserve">
+        <source>Result</source>
+        <target>Result</target>
+        <note>Class = "UINavigationItem"; title = "Result"; ObjectID = "Q8Q-VM-oPY";</note>
+      </trans-unit>
+      <trans-unit id="RLS-Vp-S6I.title" xml:space="preserve">
+        <source>イベント作成</source>
+        <target>イベント作成</target>
+        <note>Class = "UINavigationItem"; title = "イベント作成"; ObjectID = "RLS-Vp-S6I";</note>
+      </trans-unit>
+      <trans-unit id="Sl1-6M-CSX.title" xml:space="preserve">
+        <source>イベント一覧</source>
+        <target>イベント一覧</target>
+        <note>Class = "UINavigationItem"; title = "イベント一覧"; ObjectID = "Sl1-6M-CSX";</note>
+      </trans-unit>
+      <trans-unit id="TJu-Og-u1r.text" xml:space="preserve">
+        <source>ガソリン代</source>
+        <target>ガソリン代</target>
+        <note>Class = "UILabel"; text = "ガソリン代"; ObjectID = "TJu-Og-u1r";</note>
+      </trans-unit>
+      <trans-unit id="YRv-MR-WzS.title" xml:space="preserve">
+        <source>支払い編集</source>
+        <target>支払い編集</target>
+        <note>Class = "UINavigationItem"; title = "支払い編集"; ObjectID = "YRv-MR-WzS";</note>
+      </trans-unit>
+      <trans-unit id="Z2e-Wi-0TS.title" xml:space="preserve">
+        <source>NEW EVENT</source>
+        <target>NEW EVENT</target>
+        <note>Class = "UINavigationItem"; title = "NEW EVENT"; ObjectID = "Z2e-Wi-0TS";</note>
+      </trans-unit>
+      <trans-unit id="a56-xk-aeb.normalTitle" xml:space="preserve">
+        <source>追加</source>
+        <target>追加</target>
+        <note>Class = "UIButton"; normalTitle = "追加"; ObjectID = "a56-xk-aeb";</note>
+      </trans-unit>
+      <trans-unit id="aif-YZ-4gD.text" xml:space="preserve">
+        <source>イベント名</source>
+        <target>イベント名</target>
+        <note>Class = "UILabel"; text = "イベント名"; ObjectID = "aif-YZ-4gD";</note>
+      </trans-unit>
+      <trans-unit id="ced-4u-kxY.text" xml:space="preserve">
+        <source>3,200</source>
+        <target>3,200</target>
+        <note>Class = "UILabel"; text = "3,200"; ObjectID = "ced-4u-kxY";</note>
+      </trans-unit>
+      <trans-unit id="h7o-AC-NOO.text" xml:space="preserve">
+        <source>2,000円</source>
+        <target>2,000円</target>
+        <note>Class = "UILabel"; text = "2,000円"; ObjectID = "h7o-AC-NOO";</note>
+      </trans-unit>
+      <trans-unit id="hQs-Ez-b7P.text" xml:space="preserve">
+        <source>2302円</source>
+        <target>2302円</target>
+        <note>Class = "UILabel"; text = "2302円"; ObjectID = "hQs-Ez-b7P";</note>
+      </trans-unit>
+      <trans-unit id="iR3-Zl-bxW.title" xml:space="preserve">
+        <source>•••</source>
+        <target>•••</target>
+        <note>Class = "UIBarButtonItem"; title = "•••"; ObjectID = "iR3-Zl-bxW";</note>
+      </trans-unit>
+      <trans-unit id="nOy-D1-p7L.title" xml:space="preserve">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "nOy-D1-p7L";</note>
+      </trans-unit>
+      <trans-unit id="raa-RC-soH.title" xml:space="preserve">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "raa-RC-soH";</note>
+      </trans-unit>
+      <trans-unit id="x3z-FO-hcO.text" xml:space="preserve">
+        <source>イベント名</source>
+        <target>イベント名</target>
+        <note>Class = "UILabel"; text = "イベント名"; ObjectID = "x3z-FO-hcO";</note>
+      </trans-unit>
+      <trans-unit id="x17-91-0rI.text" xml:space="preserve">
+        <source>2,321円</source>
+        <target>2,321円</target>
+        <note>Class = "UILabel"; text = "2,321円"; ObjectID = "x17-91-0rI";</note>
+      </trans-unit>
+      <trans-unit id="xGW-94-6LP.text" xml:space="preserve">
+        <source>メンバー名</source>
+        <target>メンバー名</target>
+        <note>Class = "UILabel"; text = "メンバー名"; ObjectID = "xGW-94-6LP";</note>
+      </trans-unit>
+      <trans-unit id="yBF-6g-ZAN.text" xml:space="preserve">
+        <source>アイウエオアイウ</source>
+        <target>アイウエオアイウ</target>
+        <note>Class = "UILabel"; text = "アイウエオアイウ"; ObjectID = "yBF-6g-ZAN";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="warikanApp/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>warikanApp</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="warikanApp/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.2" build-num="12B45b"/>
+    </header>
+    <body>
+      <trans-unit id="member_%@" xml:space="preserve">
+        <source>member_%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="member_1" xml:space="preserve">
+        <source>member_1</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="newMember_%@" xml:space="preserve">
+        <source>newMember_%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="title" xml:space="preserve">
+        <source>title</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

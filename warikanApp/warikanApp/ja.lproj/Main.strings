@@ -1,0 +1,93 @@
+/* Class = "UILabel"; text = "2020/12/31"; ObjectID = "0EE-vE-GRU"; */
+"0EE-vE-GRU.text" = "2020/12/31";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "5EX-Zz-8On"; */
+"5EX-Zz-8On.title" = "Item";
+
+/* Class = "UILabel"; text = "太郎へ"; ObjectID = "7dg-YP-aP9"; */
+"7dg-YP-aP9.text" = "太郎へ";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "9h6-z2-Bmr"; */
+"9h6-z2-Bmr.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "share"; ObjectID = "589-qc-xCQ"; */
+"589-qc-xCQ.normalTitle" = "share";
+
+/* Class = "UIButton"; normalTitle = "追加"; ObjectID = "a56-xk-aeb"; */
+"a56-xk-aeb.normalTitle" = "追加";
+
+/* Class = "UILabel"; text = "イベント名"; ObjectID = "aif-YZ-4gD"; */
+"aif-YZ-4gD.text" = "イベント名";
+
+/* Class = "UINavigationItem"; title = "イベント編集"; ObjectID = "AlT-uG-x7Z"; */
+"AlT-uG-x7Z.title" = "イベント編集";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "CDk-xS-Nuv"; */
+"CDk-xS-Nuv.title" = "Item";
+
+/* Class = "UILabel"; text = "3,200"; ObjectID = "ced-4u-kxY"; */
+"ced-4u-kxY.text" = "3,200";
+
+/* Class = "UILabel"; text = "1人平均 2,400円"; ObjectID = "Ej8-0u-PjZ"; */
+"Ej8-0u-PjZ.text" = "1人平均 2,400円";
+
+/* Class = "UILabel"; text = "2,000円"; ObjectID = "h7o-AC-NOO"; */
+"h7o-AC-NOO.text" = "2,000円";
+
+/* Class = "UILabel"; text = "2302円"; ObjectID = "hQs-Ez-b7P"; */
+"hQs-Ez-b7P.text" = "2302円";
+
+/* Class = "UINavigationItem"; title = "清算結果"; ObjectID = "HtL-tT-cMe"; */
+"HtL-tT-cMe.title" = "清算結果";
+
+/* Class = "UILabel"; text = "伊豆大島旅行"; ObjectID = "Ig7-Mg-TTA"; */
+"Ig7-Mg-TTA.text" = "伊豆大島旅行";
+
+/* Class = "UINavigationItem"; title = "支払い作成"; ObjectID = "IQO-iV-KEe"; */
+"IQO-iV-KEe.title" = "支払い作成";
+
+/* Class = "UIBarButtonItem"; title = "•••"; ObjectID = "iR3-Zl-bxW"; */
+"iR3-Zl-bxW.title" = "•••";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "LXr-zL-XFy"; */
+"LXr-zL-XFy.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "nOy-D1-p7L"; */
+"nOy-D1-p7L.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "削除"; ObjectID = "OFw-dU-dsr"; */
+"OFw-dU-dsr.title" = "削除";
+
+/* Class = "UINavigationItem"; title = "Result"; ObjectID = "Q8Q-VM-oPY"; */
+"Q8Q-VM-oPY.title" = "Result";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "raa-RC-soH"; */
+"raa-RC-soH.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "イベント作成"; ObjectID = "RLS-Vp-S6I"; */
+"RLS-Vp-S6I.title" = "イベント作成";
+
+/* Class = "UINavigationItem"; title = "イベント一覧"; ObjectID = "Sl1-6M-CSX"; */
+"Sl1-6M-CSX.title" = "イベント一覧";
+
+/* Class = "UILabel"; text = "ガソリン代"; ObjectID = "TJu-Og-u1r"; */
+"TJu-Og-u1r.text" = "ガソリン代";
+
+/* Class = "UILabel"; text = "イベント名"; ObjectID = "x3z-FO-hcO"; */
+"x3z-FO-hcO.text" = "イベント名";
+
+/* Class = "UILabel"; text = "2,321円"; ObjectID = "x17-91-0rI"; */
+"x17-91-0rI.text" = "2,321円";
+
+/* Class = "UILabel"; text = "メンバー名"; ObjectID = "xGW-94-6LP"; */
+"xGW-94-6LP.text" = "メンバー名";
+
+/* Class = "UILabel"; text = "アイウエオアイウ"; ObjectID = "yBF-6g-ZAN"; */
+"yBF-6g-ZAN.text" = "アイウエオアイウ";
+
+/* Class = "UINavigationItem"; title = "支払い編集"; ObjectID = "YRv-MR-WzS"; */
+"YRv-MR-WzS.title" = "支払い編集";
+
+/* Class = "UINavigationItem"; title = "NEW EVENT"; ObjectID = "Z2e-Wi-0TS"; */
+"Z2e-Wi-0TS.title" = "NEW EVENT";
+
